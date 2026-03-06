@@ -80,6 +80,7 @@ I'm a Web Developer and AI enthusiast from Algeria.
 <h3 align="left">💻 Environments</h3>
 
 <p>
+ Windows 11 <br>
 🐧 Ubuntu <br>
 🛡 Kali Linux
 </p>
